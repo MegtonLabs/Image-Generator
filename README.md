@@ -11,8 +11,7 @@ Run advanced image generation on your machine — no external APIs, no limits.
 - ⚡ Fast and efficient image generation
 - 🛠️ Simple setup with Python
 - 🎯 No internet dependency after setup
-- 📂 Open-source and customizable
-
+- 
 ---
 
 ## 📥 Installation
