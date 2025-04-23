@@ -21,3 +21,6 @@ Clone this repository:
 ```bash
 git clone https://github.com/MegtonLabs/Image-Generator.git
 cd Image-Generator
+
+'''bash
+python app.py
